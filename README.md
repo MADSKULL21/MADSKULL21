@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **work.shaunaklad@gmail.com**
 
+- 🌍 Check out my portfolio website **[shaunaklad21.vercel.app](https://shaunaklad21.vercel.app/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaunaklad21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaunaklad21" height="30" width="40" /></a>
