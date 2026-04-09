@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-green" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-green" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20GenAI-blue" />
   <img src="https://img.shields.io/badge/Tech-Python%2C%20ML%2C%20Deep%20Learning-orange" />
 </p>
