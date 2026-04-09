@@ -22,9 +22,6 @@ I’m an AI/ML engineer who builds **engineering-first AI systems** — from dat
 - 🧠 Focused on LLM applications, RAG pipelines, and applied NLP
 - ⚙️ Strong in backend engineering + AI integration
 - 📍 Based in Valsad, Gujarat, India
-- 📫 Reach me at **work.shaunaklad@gmail.com**
-- 🌐 Portfolio: **https://shaunaklad21.vercel.app**
-- 💼 LinkedIn: **https://www.linkedin.com/in/shaunaklad21/**
 
 ---
 
