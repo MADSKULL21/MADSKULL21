@@ -86,50 +86,6 @@ I’m an AI/ML engineer who builds **engineering-first AI systems** — from dat
 
 ---
 
-## 🚀 Selected Projects
-
-- **[ProPlay Assistant Chatbot](https://github.com/MADSKULL21/ProPlay-Assistant)**  
-  AI sports chatbot with multi-model routing (LLaMA, Gemma, Mistral) and robust fallback logic.  
-  → Improved response accuracy by **35%** and reduced GPU usage by **30%**.
-
-- **[CHAT-WITH-PDFS-RAG](https://github.com/MADSKULL21/CHAT-WITH-PDFS-RAG)**  
-  Multi-PDF RAG assistant using LangChain + Chroma with grounded responses and citations.
-
-- **[Customer Churn Prediction](https://github.com/MADSKULL21/CUSTOMER-CHURN-PREDICTION)**  
-  End-to-end churn analytics workflow with SQL + ML + BI reporting for retention insights.
-
-- **[JARVIS AI Agent](https://github.com/MADSKULL21/JARVIS)**  
-  Multimodal voice assistant integrating STT, automation scripts, and TTS responses.
-
-- **[Stock Price Predictor](https://github.com/MADSKULL21/TIME-SERIES-FORCASTING)**  
-  Time-series forecasting experiments using LSTM and Random Forest models.
-
----
-
-## 💼 Experience
-
-- **Software Developer Intern (AI/ML Projects)** — Tenup Software Services LLP  
-  *Dec 2025 – Apr 2026*  
-  Working on AI/ML feature delivery, model-backed workflows, and automation pipelines.
-
-- **Summer Intern (AI/NLP)** — Atul Limited, Infotech Division  
-  *Summer 2025*  
-  Built bilingual speech-to-text meeting workflows with >90% internal transcription quality.
-
-- **Data Science Trainee Project** — Forage (BCG Simulation)  
-  *Jan 2025*  
-  Developed churn analysis + modeling flows and dashboard-ready business outputs.
-
----
-
-## 🎓 Education
-
-**G H Patel College of Engineering & Technology**  
-Bachelor’s in Computer Science & Engineering (2022–2026)  
-CGPA: **8.09**
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
